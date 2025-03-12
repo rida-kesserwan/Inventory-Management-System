@@ -95,5 +95,4 @@ The application interface is built with Java Swing/JFrame and includes:
 - **Efficiency**: Automates inventory tracking and invoice generation
 - **Accuracy**: Eliminates manual stock counting and calculation errors
 - **Organization**: Centralizes customer and product information
-- **Reporting**: Provides insights into sales trends and inventory needs
 - **Security**: Restricts access to sensitive functions based on user roles
